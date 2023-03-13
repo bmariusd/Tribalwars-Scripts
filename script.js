@@ -1,4 +1,5 @@
-javascript: var regExp = /^0[0-9].*$/;
+javascript: 
+var regExp = /^0[0-9].*$/;
 let disableBuildings = [];
 let disableUnits = [];
 let config;
